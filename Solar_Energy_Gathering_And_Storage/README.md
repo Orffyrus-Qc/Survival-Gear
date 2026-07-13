@@ -72,6 +72,9 @@ In field or grid-down use, prioritize:
 3. **Redundant small systems** over one fragile mega-station  
 4. **12 V DC lighting and radios** before large AC inverters (inverters waste energy and add failure points)
 
+For multi-day winter outages, surge loads, and unattended homes, pair this module with  
+[`../Generators_Gas_Diesel_Auto_Start/`](../Generators_Gas_Diesel_Auto_Start/) (gas/diesel/propane, auto-start ATS, Canadian brand fit).
+
 ---
 
 Next: open [`01_EcoFlow_Hands_On/README.md`](./01_EcoFlow_Hands_On/README.md)
