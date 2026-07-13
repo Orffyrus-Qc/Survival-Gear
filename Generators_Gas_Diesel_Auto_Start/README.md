@@ -4,6 +4,8 @@
 **Focus:** fuel types, portable vs home standby, automatic start / transfer systems, **best fit for Canada** (including Québec cold-climate and service reality)  
 **Pairs with:** [`../Solar_Energy_Gathering_And_Storage/`](../Solar_Energy_Gathering_And_Storage/) — solar reduces fuel burn; generators cover multi-day winter outages and high surge loads.
 
+**Version française :** [`../fr/Generators_Gas_Diesel_Auto_Start/README.md`](../fr/Generators_Gas_Diesel_Auto_Start/README.md)
+
 ## What you will be able to do
 
 1. Choose **gasoline, diesel, propane (LP), or natural gas** for your use case.  

@@ -4,6 +4,8 @@
 **Start brand (integrated learning):** EcoFlow  
 **Goal:** understand how solar is gathered, controlled, stored, and used — including mixed brands and scrap builds.
 
+**Version française :** [`../fr/Solar_Energy_Gathering_And_Storage/README.md`](../fr/Solar_Energy_Gathering_And_Storage/README.md)
+
 ## What you will be able to do
 
 After working through this module:

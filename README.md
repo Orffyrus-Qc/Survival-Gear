@@ -2,6 +2,8 @@
 
 Hands-on survival systems knowledge: identify parts, assemble safely, mix brands when needed, and build from new gear **or** scrap electronics.
 
+**Version française :** [`fr/README.md`](./fr/README.md)
+
 ## Active modules
 
 | Module | Path | Level | Status |
